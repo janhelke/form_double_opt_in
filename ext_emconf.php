@@ -1,6 +1,6 @@
 <?php
 
-$EM_CONF[$_EXTKEY] = [
+$EM_CONF['form_double_opt_in'] = [
     'title' => 'Form Double Opt-In',
     'description' => 'Double Opt-In for the TYPO3 CMS Form Framework',
     'category' => 'plugin',
